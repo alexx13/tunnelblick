@@ -1,5 +1,9 @@
-*The official Tunnelblick website has moved to* <a href="https://tunnelblick.net">https://tunnelblick.net</a>.
+==The official Tunnelblick website has moved.==
+    
+*The page you requested has moved to <a href="https://tunnelblick.net/cDownloadsOlder.html">https://tunnelblick.net/issues.html</a>.*
 
-For more about the move, see <a href="https://tunnelblick.net/cNews.html#2015-07-14">Tunnelblick's  News page</a>.
+The new home page is at <a href="https://tunnelblick.net">https://tunnelblick.net</a>.
 
-Discuss the new website in <a href="https://groups.google.com/d/msg/tunnelblick-discuss/EYSZ7nhIY6k/mLYme6CZTmYJ">this discussion</a>.
+The new downloads page is at <a href="https://tunnelblick.net/downloads.html">https://tunnelblick.net/downloads.html</a>.
+
+For more about the move, see <a href="https://tunnelblick.net/cNews.html#2015-07-23">Tunnelblick's News page</a>.
