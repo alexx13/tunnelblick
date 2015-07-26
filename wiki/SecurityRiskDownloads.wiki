@@ -1,6 +1,6 @@
 ==The official Tunnelblick website has moved.==
     
-*The page you requested has moved to <a href="https://tunnelblick.net/cSecurityRiskDownloads.html">https://tunnelblick.net/cSecurityRiskDownloads.html</a>.*
+*The page you requested has moved to <a href="https://tunnelblick.net/downloads.html">https://tunnelblick.net/downloads.html</a>.*
 
 The new home page is at <a href="https://tunnelblick.net">https://tunnelblick.net</a>.
 
